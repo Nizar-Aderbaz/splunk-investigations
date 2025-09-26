@@ -1,8 +1,8 @@
-Splunk Investigations
+# Splunk Investigations
 
 A collection of SOC-style investigations and threat analysis exercises using Splunk
 
-Overview
+## Overview
 
 This repository contains hands-on SOC investigations and threat analysis exercises performed using Splunk. It is designed for cybersecurity learning, portfolio demonstration, and practical application of Splunk in real-world security scenarios.
 
@@ -16,7 +16,7 @@ IOC Extraction: Identifying and cataloging indicators of compromise such as IPs,
 
 MITRE ATT&CK Mapping: Aligning observed attacker behaviors with known TTPs.
 
-Purpose
+## Purpose
 
 Serve as a learning tool for SOC analysts and cybersecurity students.
 
@@ -24,7 +24,7 @@ Demonstrate practical Splunk skills in log analysis, detection, and incident res
 
 Provide portfolio-ready examples of structured investigations.
 
-Tools & Techniques
+## Tools & Techniques
 
 Splunk SIEM for searching, filtering, and visualizing logs.
 
