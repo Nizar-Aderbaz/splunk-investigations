@@ -1,13 +1,13 @@
-Boss of the SOC V1 – Web Site Defacement
+# Boss of the SOC V1 – Web Site Defacement
 
 Splunk Investigations | SOC Case Study
 
-🧪 Scenario Overview
+## 🧪 Scenario Overview
 
 In this hands-on lab, I assumed the role of Alice Bluebird, a newly hired SOC analyst at Wayne Enterprises. The first assignment was to investigate a potential website defacement reported by the Gotham City Police Department (GCPD). The website in question, imreallynotbatman.com
 , hosted on Wayne Enterprises' infrastructure, appeared to have been compromised. The task was to determine the legitimacy of the defacement and reconstruct the attack timeline using Splunk.
 
-🔍 Investigation Highlights
+## 🔍 Investigation Highlights
 
 Initial Compromise Detection: Identified the first signs of compromise through HTTP request logs, pinpointing the attack vector.
 
@@ -19,7 +19,7 @@ Timeline Reconstruction: Built a comprehensive timeline of events leading up to 
 
 Indicator of Compromise (IOC) Extraction: Extracted IOCs, including IP addresses, domain names, and file hashes, to aid in further threat analysis.
 
-📊 Key Findings
+## 📊 Key Findings
 
 Defacement File: poisonivy-is-coming-for-you-batman.jpeg
 
@@ -31,7 +31,7 @@ MD5 Hash of Executable: aae3f5a29935e6abcc2c2754d12a9af0
 
 Brute Force Password Guess: batman
 
-🛠 Tools & Techniques
+## 🛠 Tools & Techniques
 
 Splunk SIEM: Utilized for log aggregation, search, and visualization.
 
